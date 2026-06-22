@@ -1,6 +1,6 @@
 # Capstone_3
-## Capstone 3 - Analysis with Power BI 
-### Data Analyst Vesna Cari 
+### Capstone 3 - Analysis with Power BI 
+#### Data Analyst Vesna Cari 
 
 #### This Capstone Project analyzes sales performance over the last 4 years. I am working as a data analyst for the growing business EmporiUm which describes itself as a "virtual student bookstore". EmporiUm got its start in 2022 following the merger of a chain of college bookstore franchses with an online retailer that sold books and tech gear to students. Today, EmporiUm continues to do a blend of in-store and online sales. 
 
